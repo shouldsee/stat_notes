@@ -1,0 +1,27 @@
+---
+title: "Dirichlet Process Mixture Model"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+###
+
+$$
+G \  is\ a \ distribution\\
+X\sim G \\
+G' \sim DP(G,\alpha)\\
+E_{G'}(X') = E_{G}(X) \\
+e.g.:\ G\sim N(0,1)
+$$
+
+
+### Gibbs sampling Updating
+
+
+Shot from https://www.youtube.com/watch?v=UTW530-QVxo
+
+Slides from http://www.umiacs.umd.edu/~jbg/teaching/CSCI_5622/17a.pdf
+
+![](img/utube_boulder.bmp)
