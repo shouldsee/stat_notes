@@ -9,11 +9,13 @@ output:
 ###
 
 $$
+\begin{aligned}
 G \  is\ a \ distribution\\
 X\sim G \\
 G' \sim DP(G,\alpha)\\
 E_{G'}(X') = E_{G}(X) \\
 e.g.:\ G\sim N(0,1)
+\end{aligned}
 $$
 
 
